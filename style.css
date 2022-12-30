@@ -1,0 +1,10 @@
+
+.back-top{
+    background-color: #00a884; /* Color selected by inspecting the actual webpage */
+    height: 15vh;
+}
+
+.back-bottom{
+    background-color: #ffffff;
+    height: 85vh;
+}
