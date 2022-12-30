@@ -8,3 +8,25 @@
     background-color: #ffffff;
     height: 85vh;
 }
+
+.back-container-main{
+    position: relative;
+}
+
+.front-container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.front-container1{
+    position: absolute;
+    top: 15px;
+    left: 0;
+    right: 0;
+}
+.chat-top-line{
+    background-color: #ffffffde;
+    min-height: 55px;
+}
