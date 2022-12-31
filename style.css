@@ -1,4 +1,6 @@
-
+/**{
+    border: 2px solid red;
+}*/
 .back-top{
     background-color: #00a884; /* Color selected by inspecting the actual webpage */
     height: 15vh;
@@ -29,4 +31,25 @@
 .chat-top-line{
     background-color: #ffffffde;
     min-height: 55px;
+}
+.profile-image{
+    margin-top: 7px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.grp-img{
+    height: 40px;
+    width: 40px;
+}
+.col-sm-4{
+    border-right: 1px solid gray;
+    
+}
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
 }
