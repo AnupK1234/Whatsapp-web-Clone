@@ -63,3 +63,14 @@
     background-color: white;
     min-height: 600px;
 }
+.contact-scroll{
+    overflow-y: scroll;
+    height: 600px;
+}
+.time-align{
+    text-align:right;
+}
+.message{
+    background-image: url(/images/message-bckg.jpg);
+    min-height: 600px;
+}
