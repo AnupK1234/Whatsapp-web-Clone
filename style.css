@@ -59,3 +59,7 @@
     margin-left: 16px;
     float: left;
 }
+.contact-list{
+    background-color: white;
+    min-height: 600px;
+}
