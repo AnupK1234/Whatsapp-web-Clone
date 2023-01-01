@@ -1,5 +1,5 @@
 /**{
-    border: 2px solid red;
+    border: 1px solid red;
 }*/
 .back-top{
     background-color: #00a884; /* Color selected by inspecting the actual webpage */
@@ -29,21 +29,22 @@
     right: 0;
 }
 .chat-top-line{
-    background-color: #ffffffde;
+    background-color: #f3ececde;
     min-height: 55px;
 }
 .profile-image{
-    margin-top: 7px;
-    height: 30px;
-    width: 30px;
+    margin-top: 12px;
+    height: 35px;
+    width: 35px;
     border-radius: 50%;
 }
 .grp-img{
     height: 40px;
     width: 40px;
+    margin-top: 7px;
 }
 .col-sm-4{
-    border-right: 1px solid gray;
+    border-right: 1.5px solid gray;
     
 }
 .float-right{
@@ -51,5 +52,10 @@
 }
 
 .float-left{
+    float: left;
+}
+.u-name {
+    margin-top: 15px;
+    margin-left: 16px;
     float: left;
 }
