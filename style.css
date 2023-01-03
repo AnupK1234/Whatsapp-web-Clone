@@ -74,3 +74,36 @@
     background-image: url(/images/message-bckg.jpg);
     min-height: 600px;
 }
+.receive-msg{
+    background-color: #ffffff;
+    padding: 6px;
+    margin-top: 8px;
+    float: left;
+    border-radius: 5px;
+    border-top-left-radius: 0; 
+    border: 0.5px solid rgb(0, 0, 0);   
+}
+.sent-msg{
+    background-color: #90ee90;
+    padding: 7px;
+    margin-top: 8px;
+    float: right;
+    border-radius: 5px;
+}
+.message-scroll{
+    overflow-y: scroll;
+    height: 560px;
+}
+.message-bottom-panel{
+    background-color: rgb(235, 232, 232);
+    padding: 6px;
+}
+.margin-right{
+    margin-right: 1px;
+}
+.text-box{
+    width: 100%;
+    padding: 3px;
+    padding-left: 12px;
+    border-radius: 7px;
+}
